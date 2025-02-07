@@ -36,5 +36,21 @@ Hello, I'm Osman Kağan Gündüz. I'm a software developer and data science enth
 ### Contact
 
 * E-posta: [kagan_osman@hotmail.com]
-* LinkedIn: [LinkedIn profiliniz]
-* Twitter: [Twitter profiliniz]
+* LinkedIn: [LinkedIn profile]
+* Twitter: [Twitter profile]
+
+## Projects
+
+### StatGenius
+
+*Description*: A tool for statistical analysis.
+*Technologies*: Python, NumPy, Pandas
+*Link*: [GitHub repo link]
+
+### [Project Name]
+
+*Description*: [Project description]
+*Technologies*: [List]
+*Link*: [Project link]
+
+
