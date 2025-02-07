@@ -15,3 +15,26 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ReeseJhon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## About Me
+
+Hello, I'm Osman Kağan Gündüz. I'm a software developer and data science enthusiast. I studied [Statistics] at [Yıldız Technical University]. I am familiar with various technologies such as [Python, Studio R].
+
+### My Experience
+
+* [Company/Project Name] - [Position] ([Date Range])
+  * [Your duties and achievements]
+* [Project Name] - [Your Role] ([Date Range])
+  * [Information about the project and the technologies you used]
+
+### My Skills
+
+* Programming Languages: [List]
+* Databases: [List]
+* Cloud Platforms: [List]
+* Other: [List]
+
+### Contact
+
+* E-posta: [kagan_osman@hotmail.com]
+* LinkedIn: [LinkedIn profiliniz]
+* Twitter: [Twitter profiliniz]
