@@ -53,4 +53,5 @@ Hello, I'm Osman Kağan Gündüz. I'm a software developer and data science enth
 *Technologies*: [List]
 *Link*: [Project link]
 
-![Ridge Coefficients as a Function of Regularization](example1.jpeg)
+<img src="example1.jpeg" alt="Ridge Coefficients as a Function of Regularization" width="300">
+
