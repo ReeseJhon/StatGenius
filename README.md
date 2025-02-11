@@ -55,3 +55,6 @@ Hello, I'm Osman Kağan Gündüz. I'm a software developer and data science enth
 
 <img src="example1.jpg" alt="Ridge Coefficients as a Function of Regularization" width="500">
 
+### DeepSeek vs ChatGPT: Complete Comparison of the AI Titans in 2025
+
+(https://www.geeksforgeeks.org/deepseek-vs-chatgpt/)
